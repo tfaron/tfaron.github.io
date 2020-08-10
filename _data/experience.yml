@@ -1,20 +1,19 @@
 - layout: left
-  company: HPE SimpliVity (formerly, SimpliVity Corporation)
-  job_title: Senior Network System Administrator
-  dates: Systems/Software Engineer V
-  quote: >
-   Hired as the lead GUI automation engineer at a fast-paced startup tasked with creating a GUI automation framework and test strategy for the SimpliVity suite of UI tools.
-  description: | # this will include new lines to allow paragraphs
-    Scripted TestComplete framework and E2E tests for:
-    ï‚· Our initial GUI product, a C# vSphere Client plug-in utilizing DevExpress components.
-    ï‚· A wizard style C# Windows application used for product deployment working closely with development to perform tests on the product in simulation mode.
-    ï‚· A Flash Plug-in to vSphere Web Client running on Chrome and Firefox.
-    ï‚· Scripted page object model framework in Protractor and developed tests for a HTML vSphere Web Client plug-in utilizing Kendo and Angular2 components.
-    ï‚· Executed behavior tests, assisted in fixing defects, and worked on tech debt stories.
-    ï‚· Implemented use of seleniumSessionId allowing multiple specs to run in the same browser session.
-    ï‚· Integrating TestComplete and Protractor into an existing CLI Perl automation harness to leverage its capabilities such as product configuration, cleanup, reporting and test case management.
-    ï‚· Utilized Log4js and protractor-jasmine2-screenshot-reporter to help significantly reduce Protractor results analysis time.
-    ï‚· Validated existing automation on vSphere Client and vSphere Web Client, a 3rd party application, performing code changes to support the newest release while not breaking existing code base.
-    ï‚· Responsible for triage and results reporting on nightly regression runs for mainline and release branch kits along with scheduled full regression runs.
-    ï‚· Developed a training program to allow new and existing team members to quickly learn how to write and execute scripts.
-    ï‚· Setup and maintained VMs required to support the GUI automation test efforts.
+ company: HPE SimpliVity (formerly, SimpliVity Corporation)
+ job_title: Senior Network System Administrator
+ dates: Systems/Software Engineer V
+ quote: >
+ Hired as the lead GUI automation engineer at a fast-paced startup tasked with creating a GUI automation framework and test strategy for the SimpliVity suite of UI tools.
+ description: | # this will include new lines to allow paragraphs
+    • Scripted TestComplete framework and E2E tests for:
+        ? Our initial GUI product, a C# vSphere Client plug-in utilizing DevExpress components.
+        ? A wizard style C# Windows application used for product deployment working closely with development to perform tests on the product in simulation mode. 
+        ? A Flash Plug-in to vSphere Web Client running on Chrome and Firefox.
+    • Scripted page object model framework in Protractor and developed tests for a HTML vSphere Web Client plug-in utilizing Kendo and Angular2 components.
+    • Executed behavior tests, assisted in fixing defects, and worked on tech debt stories.
+    • Implemented use of seleniumSessionId allowing multiple specs to run in the same browser session.
+    • Integrating TestComplete and Protractor into an existing CLI Perl automation harness to leverage its capabilities such as product configuration, cleanup, reporting and test case management.
+    • Utilized Log4js and protractor-jasmine2-screenshot-reporter to help significantly reduce Protractor results analysis time.
+    • Validated existing automation on vSphere Client and vSphere Web Client, a 3rd party application, performing code changes to support the newest release while not breaking existing code base.
+    • Responsible for triage and results reporting on nightly regression runs for mainline and release branch kits along with scheduled full regression runs.
+    • Developed a training program to allow new and existing team members to quickly learn how to write and execute scripts.
