@@ -24,12 +24,7 @@ linkedin_username: tim-faron-58724a95
 # about_title: Summary
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Highly motivated software engineer known for attention to detail and outstanding technical proficiencies. Extensive experience specializing in enabling rapid development through automated testing. Dedicated team player with the keen
-ability to analyze, design and implement multiple projects/solutions simultaneously. Proven adaptive self-starter with strong communication, planning and implementation skills for quality and product release initiatives.
-
-  TECHNICAL SKILLS
-TypeScript, JavaScript, NodeJs, MySql, Sybase, Java,
-Perl, HTML, WebDriverJS, VMWare, Git, Atlassian suite, Hyper Converged Infrastructures
+  Highly motivated software engineer known for attention to detail and outstanding technical proficiencies. Extensive experience specializing in enabling rapid development through automated testing. Dedicated team player with the keen ability to analyze, design and implement multiple projects/solutions simultaneously. Proven adaptive self-starter with strong communication, planning and implementation skills for quality and product release initiatives.
 
 # Experience Section
 # experience_title: Experience
