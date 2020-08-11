@@ -33,7 +33,7 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: Certificates
+more_title: Certificates
 more_content: | # this will include new lines to allow paragraphs
   Certified SilkTest Engineer (CSTE)
 
