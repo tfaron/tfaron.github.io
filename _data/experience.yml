@@ -1,14 +1,14 @@
 - layout: left
   company: HPE SimpliVity (formerly, SimpliVity Corporation)
-  job_title: Systems/Software Engineer V
+  job_title: System Software Engineer V
   dates: March 2014 - July 2020
   quote: >
    Hired as the lead GUI automation engineer at a fast-paced startup tasked with creating a GUI automation framework and test strategy for the SimpliVity suite of UI tools.
   description: | # this will include new lines to allow paragraphs
-        • Scripted TestComplete framework and E2E tests for:
-        ** Our initial GUI product, a C# vSphere Client plug-in utilizing DevExpress components.
-        ** A wizard style C# Windows application used for product deployment working closely with development to perform tests on the product in simulation mode. 
-        ** A Flash Plug-in to vSphere Web Client running on Chrome and Firefox.
+    • Scripted TestComplete framework and E2E tests for:
+    ** Our initial GUI product, a C# vSphere Client plug-in utilizing DevExpress components.
+    ** A wizard style C# Windows application used for product deployment working closely with development to perform tests on the product in simulation mode. 
+    ** A Flash Plug-in to vSphere Web Client running on Chrome and Firefox.
     * Scripted page object model framework in Protractor and developed tests for a HTML vSphere Web Client plug-in utilizing Kendo and Angular2 components.
     * Executed behavior tests, assisted in fixing defects, and worked on tech debt stories.
     * Implemented use of seleniumSessionId allowing multiple specs to run in the same browser session.
