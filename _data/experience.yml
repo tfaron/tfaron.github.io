@@ -26,15 +26,15 @@
   quote: >
    Developed, delivered, and supported UI automation for the EMC mid-range storage suite of UI tools.
   description: | # this will include new lines to allow paragraphs
-    • Took over existing SilkTest automation suites designed to test Navisphere and NaviExpress software for EMCs core mid-range storage array portfolio.
-    • Expanded automation product coverage, including incorporation CLI actions to aid in test performance and stability while also adding ability to perform host related actions via SAN.
-    • Performed early regression testing and issue identification utilizing development code drops.
-    • Self-learned Java to implement a next generation GUI automation framework utilizing Silk4J (SilkTest Java Plug-in) allowing tests to be written as JUnit tests.
-    • Lead the convergence of VNX Block automation with another SilkTest framework used to test VNX File. Responsibilities included unifying processes, providing framework, training, and support for DVT test case development.
-    • Validated SilkTest against a Flash based web application by worked closely with development to get custom methods for testing, getting builds integrated and providing artifacts.
-    • Incorporated performance timing into the automation framework to support the Scalability team. Took the initiative to develop, execute tests and reported results.
-    • Developed automated tests against VNXe, a Flash based web application, which utilized the Managed Storage components wizards to build up configurations prior to CLI being available.
-    • Worked as part of a transition team for replacing SilkTest with TestComplete.
+    * Took over existing SilkTest automation suites designed to test Navisphere and NaviExpress software for EMCs core mid-range storage array portfolio.
+    * Expanded automation product coverage, including incorporation CLI actions to aid in test performance and stability while also adding ability to perform host related actions via SAN.
+    * Performed early regression testing and issue identification utilizing development code drops.
+    * Self-learned Java to implement a next generation GUI automation framework utilizing Silk4J (SilkTest Java Plug-in) allowing tests to be written as JUnit tests.
+    * Lead the convergence of VNX Block automation with another SilkTest framework used to test VNX File. Responsibilities included unifying processes, providing framework, training, and support for DVT test case development.
+    * Validated SilkTest against a Flash based web application by worked closely with development to get custom methods for testing, getting builds integrated and providing artifacts.
+    * Incorporated performance timing into the automation framework to support the Scalability team. Took the initiative to develop, execute tests and reported results.
+    * Developed automated tests against VNXe, a Flash based web application, which utilized the Managed Storage components wizards to build up configurations prior to CLI being available.
+    * Worked as part of a transition team for replacing SilkTest with TestComplete.
     
    
 - layout: left
@@ -44,10 +44,10 @@
   quote: >
    Provided UI automation for new and existing product lines.
   description: | # this will include new lines to allow paragraphs
-    • Designed a scripted framework in SilkTest for Atlas, a C# .NET web-based customer service application.
-    • Developed test cases for existing functionality in Availability SmartPack, using functional specs.
-    • Aided in creating automation scripts to verify Availability SmartPack DataPack creation and delivery to a Stratus Active Service Network (ASN) Hub.
-    • Partnered with developers and QA members to audit and enhance existing test cases and framework.
+    * Designed a scripted framework in SilkTest for Atlas, a C# .NET web-based customer service application.
+    * Developed test cases for existing functionality in Availability SmartPack, using functional specs.
+    * Aided in creating automation scripts to verify Availability SmartPack DataPack creation and delivery to a Stratus Active Service Network (ASN) Hub.
+    * Partnered with developers and QA members to audit and enhance existing test cases and framework.
     
 - layout: left
   company: Applied Biosystems
@@ -56,11 +56,11 @@
   quote: >
    Collaborated in a faced-paced environment to introduce quick-turn automation solutions.
   description: | # this will include new lines to allow paragraphs
-    • Utilized SilkTest to maintain and enhance an automation framework for a Windows based Visual C++ Application used to control a 4700 Proteomics Analyzer Mass Spectrometer.
-    • Worked directly with Product Test Engineers/Chemists to grow a fully automated Smoke Test suite that included installation, configuration, and functional tests to verify nightly builds of an application composed of custom objects.
-    • Developed an automated regression suite covering over 80 percent of the manual test plan, resulting in reduction of required manual resources and optimized the regression test cycle.
-    • Assisted in the set-up of a Continuous Integration Cycle using Cruise Control and SilkTest.
-    • Examined Smoke Test results on daily builds to determine if product installation on hardware was safe.
+    * Utilized SilkTest to maintain and enhance an automation framework for a Windows based Visual C++ Application used to control a 4700 Proteomics Analyzer Mass Spectrometer.
+    * Worked directly with Product Test Engineers/Chemists to grow a fully automated Smoke Test suite that included installation, configuration, and functional tests to verify nightly builds of an application composed of custom objects.
+    * Developed an automated regression suite covering over 80 percent of the manual test plan, resulting in reduction of required manual resources and optimized the regression test cycle.
+    * Assisted in the set-up of a Continuous Integration Cycle using Cruise Control and SilkTest.
+    * Examined Smoke Test results on daily builds to determine if product installation on hardware was safe.
     
 - layout: left
   company: SunGard Investment Management Systems
@@ -69,8 +69,8 @@
   quote: >
    Provided automation for investment management software with rapid-release timelines.
   description: | # this will include new lines to allow paragraphs
-    • Oversaw automation on Decalog Manager and Decalog Trader utilizing SilkTest.
-    • Scripted tests to verify release enhancements for a product with multiple versions.
-    • Performed product installation tests using a previous version of a Sybase database that required upgrading.
-    • Wrote SQL queries to perform database verification both manually and through SilkTest.
-    • Designed and scripted automated tests strategy on a newly developed client/server J2EE application running on application server Weblogic 6.1.
+    * Oversaw automation on Decalog Manager and Decalog Trader utilizing SilkTest.
+    * Scripted tests to verify release enhancements for a product with multiple versions.
+    * Performed product installation tests using a previous version of a Sybase database that required upgrading.
+    * Wrote SQL queries to perform database verification both manually and through SilkTest.
+    * Designed and scripted automated tests strategy on a newly developed client/server J2EE application running on application server Weblogic 6.1.
